@@ -1,5 +1,5 @@
-ALunos: Luan Hernandes, Victor Rafael, João Barbosa
-Sistema de Vendas - CRUD Backend
+Alunos: Luan Hernandes, Victor Rafael, João Barbosa
+<h1>Sistema de Vendas - CRUD Backend</h1>
 
 Tecnologias Utilizadas
 Java: A linguagem de programação principal para o desenvolvimento do backend.
