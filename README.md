@@ -1,12 +1,12 @@
 Alunos: Luan Hernandes, Victor Rafael, João Barbosa
 <h1>Sistema de Vendas - CRUD Backend</h1>
 
-Tecnologias Utilizadas
-Java: A linguagem de programação principal para o desenvolvimento do backend.
-Spring Framework: Utilizado para implementar o padrão arquitetural MVC (Model-View-Controller), fornecendo estrutura e suporte para o desenvolvimento web.
-Spring Boot: Facilita a configuração e inicialização do projeto Spring, reduzindo a quantidade de configuração necessária.
-Spring Data JPA: Oferece suporte para operações de acesso a banco de dados usando a abordagem de ORM (Object-Relational Mapping).
-Banco de Dados Relacional: Utilizamos um banco de dados relacional PostgreSQL para armazenar os dados do sistema.
+Tecnologias Utilizadas<br/>
+Java: A linguagem de programação principal para o desenvolvimento do backend.<br/>
+Spring Framework: Utilizado para implementar o padrão arquitetural MVC (Model-View-Controller), fornecendo estrutura e suporte para o desenvolvimento web.<br/>
+Spring Boot: Facilita a configuração e inicialização do projeto Spring, reduzindo a quantidade de configuração necessária.<br/>
+Spring Data JPA: Oferece suporte para operações de acesso a banco de dados usando a abordagem de ORM (Object-Relational Mapping).<br/>
+Banco de Dados Relacional: Utilizamos um banco de dados relacional PostgreSQL para armazenar os dados do sistema.<br/><br/>
 Estrutura do Projeto
 O projeto segue a estrutura padrão do Spring Boot MVC, com os seguintes componentes principais:
 
